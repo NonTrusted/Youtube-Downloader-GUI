@@ -5,6 +5,6 @@
 
 **Installation:**
 
-`pip install pytube`
-`pip install pydub`
-`pip install tkinter`
+```pip install pytube
+pip install pydub
+pip install tkinter```
