@@ -40,8 +40,6 @@ def mp3():
 
     def say():
         mp3_downloader(mp3_link.get())
-        label = Label(root, text="Downloaded!")
-        label.pack()
 
     login = Button(root, text=' Enter ',command=say)
     login.pack()
@@ -60,8 +58,6 @@ def mp4():
 
     def say():
         mp4_downloader(mp4_link.get())
-        label = Label(root, text="Downloaded!")
-        label.pack()
 
     login = Button(root, text=' Enter ',command=say)
     login.pack()
